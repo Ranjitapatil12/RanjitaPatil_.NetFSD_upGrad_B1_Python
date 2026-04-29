@@ -1,0 +1,9 @@
+Ticket ID,Name,Department,Issue,Category,Priority,Status,Created At
+T0001,Ranjita,IT,Server down,Incident,P1,In Progress,2026-04-29 00:04:03
+T0003,System,IT,Low Disk Space,Incident,P1,Open,2026-04-29 00:04:36
+T0004,System,IT,High Network Usage,Incident,P1,Open,2026-04-29 00:04:36
+T0005,Ranjita,IT,Server down,Incident,P1,Open,2026-04-29 00:23:15
+T0006,Ranjita,IT,Server down,Incident,P1,Open,2026-04-29 00:23:35
+T0007,Ranjita,IT,Server down,Incident,P1,Open,2026-04-29 00:23:48
+T0008,Ranjita,IT,Server down,Incident,P1,Open,2026-04-29 00:24:02
+T0009,System,IT,server down,Problem,P1,Open,2026-04-29 00:24:02

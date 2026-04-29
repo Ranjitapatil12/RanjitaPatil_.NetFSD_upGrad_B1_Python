@@ -1,0 +1,96 @@
+[
+    {
+        "ticket_id": "T0001",
+        "employee_name": "Ranjita",
+        "department": "IT",
+        "issue": "Server down",
+        "category": "Incident",
+        "priority": "P1",
+        "status": "In Progress",
+        "created_at": "2026-04-29 00:04:03",
+        "closed_at": null,
+        "ticket_type": "Incident"
+    },
+    {
+        "ticket_id": "T0003",
+        "employee_name": "System",
+        "department": "IT",
+        "issue": "Low Disk Space",
+        "category": "Incident",
+        "priority": "P1",
+        "status": "Open",
+        "created_at": "2026-04-29 00:04:36",
+        "closed_at": null,
+        "ticket_type": "Incident"
+    },
+    {
+        "ticket_id": "T0004",
+        "employee_name": "System",
+        "department": "IT",
+        "issue": "High Network Usage",
+        "category": "Incident",
+        "priority": "P1",
+        "status": "Open",
+        "created_at": "2026-04-29 00:04:36",
+        "closed_at": null,
+        "ticket_type": "Incident"
+    },
+    {
+        "ticket_id": "T0005",
+        "employee_name": "Ranjita",
+        "department": "IT",
+        "issue": "Server down",
+        "category": "Incident",
+        "priority": "P1",
+        "status": "Open",
+        "created_at": "2026-04-29 00:23:15",
+        "closed_at": null,
+        "ticket_type": "Incident"
+    },
+    {
+        "ticket_id": "T0006",
+        "employee_name": "Ranjita",
+        "department": "IT",
+        "issue": "Server down",
+        "category": "Incident",
+        "priority": "P1",
+        "status": "Open",
+        "created_at": "2026-04-29 00:23:35",
+        "closed_at": null,
+        "ticket_type": "Incident"
+    },
+    {
+        "ticket_id": "T0007",
+        "employee_name": "Ranjita",
+        "department": "IT",
+        "issue": "Server down",
+        "category": "Incident",
+        "priority": "P1",
+        "status": "Open",
+        "created_at": "2026-04-29 00:23:48",
+        "closed_at": null,
+        "ticket_type": "Incident"
+    },
+    {
+        "ticket_id": "T0008",
+        "employee_name": "Ranjita",
+        "department": "IT",
+        "issue": "Server down",
+        "category": "Incident",
+        "priority": "P1",
+        "status": "Open",
+        "created_at": "2026-04-29 00:24:02",
+        "closed_at": null,
+        "ticket_type": "Incident"
+    },
+    {
+        "ticket_id": "T0009",
+        "employee_name": "System",
+        "department": "IT",
+        "issue": "server down",
+        "category": "Problem",
+        "priority": "P1",
+        "status": "Open",
+        "created_at": "2026-04-29 00:24:02"
+    }
+]

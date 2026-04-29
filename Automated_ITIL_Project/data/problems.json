@@ -1,0 +1,12 @@
+[
+    {
+        "ticket_id": "T0009",
+        "employee_name": "System",
+        "department": "IT",
+        "issue": "server down",
+        "category": "Problem",
+        "priority": "P1",
+        "status": "Open",
+        "created_at": "2026-04-29 00:24:02"
+    }
+]

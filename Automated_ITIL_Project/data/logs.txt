@@ -1,0 +1,322 @@
+2026-04-22 10:31:12.792153 - Error loading tickets: Expecting value: line 1 column 1 (char 0)
+2026-04-22 10:31:45.072519 - Error loading tickets: Expecting value: line 1 column 1 (char 0)
+2026-04-22 10:31:45.077217 - Ticket created: T0001
+2026-04-22 10:35:02.476549 - Ticket updated: T0001
+2026-04-22 10:41:21.334685 - Ticket updated: T0001
+2026-04-22 13:27:49.573434 - AUTO TICKET CREATED: T0002 - Low Disk Space
+2026-04-22 13:27:49.586202 - SLA breached: T0001
+2026-04-22 13:40:27.417573 - SLA breached: T0001
+2026-04-22 13:41:51.892120 - Backup CSV created
+2026-04-22 13:41:51.902205 - Ticket created: T0003
+2026-04-22 13:41:52.920957 - SLA breached: T0001
+2026-04-22 13:46:23.445267 - SLA breached: T0001
+2026-04-22 13:46:53.849756 - Backup CSV created
+2026-04-22 13:46:53.852409 - Ticket created: T0004
+2026-04-22 13:46:54.862319 - SLA breached: T0001
+2026-04-22 13:57:35.737822 - SLA breached: T0001
+2026-04-22 13:58:35.485562 - Backup CSV created
+2026-04-22 13:58:35.486680 - Ticket created: T0005
+2026-04-22 13:58:36.508264 - SLA breached: T0001
+2026-04-22 13:59:47.566417 - Backup CSV created
+2026-04-22 13:59:47.568730 - Ticket created: T0006
+2026-04-22 13:59:48.590267 - SLA breached: T0001
+2026-04-22 13:59:48.592855 - Problem detected: server down
+2026-04-22 14:04:39.412389 - SLA breached: T0001
+2026-04-22 14:04:39.423437 - Backup CSV created
+2026-04-22 14:04:39.429952 - PROBLEM RECORD CREATED: T0007 - server down
+2026-04-22 14:05:02.314353 - Backup CSV created
+2026-04-22 14:05:02.315861 - Ticket created: T0008
+2026-04-22 14:05:03.330439 - SLA breached: T0001
+2026-04-22 14:23:54.105479 - SLA breached: T0001
+2026-04-22 14:23:59.468258 - SLA breached: T0001
+2026-04-22 16:09:27.929216 - Backup CSV created
+2026-04-22 16:09:27.931347 - Ticket created: T0001
+2026-04-22 16:09:28.942069 - AUTO TICKET CREATED: T0002 - Low Disk Space
+2026-04-22 16:10:03.755438 - Backup CSV created
+2026-04-22 16:10:03.756706 - Ticket created: T0003
+2026-04-22 16:10:34.637534 - Backup CSV created
+2026-04-22 16:10:34.639918 - Ticket created: T0004
+2026-04-23 01:50:19.250446 - Backup CSV created
+2026-04-23 01:50:19.250446 - Ticket created: T0005
+2026-04-23 01:50:20.275185 - SLA breached: T0001
+2026-04-23 01:50:20.275185 - SLA breached: T0002
+2026-04-23 01:50:20.286831 - SLA breached: T0003
+2026-04-23 01:50:20.291276 - SLA breached: T0004
+2026-04-23 01:52:20.551400 - Backup CSV created
+2026-04-23 01:52:20.561227 - Ticket created: T0006
+2026-04-23 01:56:43.270740 - Backup CSV created
+2026-04-23 01:56:43.270740 - Ticket created: T0007
+2026-04-23 01:59:19.785107 - Backup CSV created
+2026-04-23 01:59:19.785107 - Ticket created: T0008
+2026-04-23 01:59:20.796443 - Backup CSV created
+2026-04-23 01:59:20.796443 - PROBLEM RECORD CREATED: T0009 - server down
+2026-04-23 02:02:40.451054 - Backup CSV created
+2026-04-23 02:02:40.453372 - Ticket created: T0010
+2026-04-23 02:07:04.085885 - Backup CSV created
+2026-04-23 02:07:04.085885 - Ticket created: T0011
+2026-04-23 02:09:12.256961 - Backup CSV created
+2026-04-23 02:09:12.256961 - Ticket created: T0012
+2026-04-23 02:14:46.054152 - Backup CSV created
+2026-04-23 02:14:46.060132 - Ticket created: T0001
+2026-04-23 02:17:04.156367 - Backup CSV created
+2026-04-23 02:17:04.156834 - Ticket updated: T0001
+2026-04-23 02:26:22.165655 - Backup CSV created
+2026-04-23 02:26:22.169694 - Ticket created: T0001
+2026-04-23 02:29:11.278442 - Backup CSV created
+2026-04-23 02:29:11.278442 - Ticket created: T0001
+2026-04-23 02:29:45.174644 - Backup CSV created
+2026-04-23 02:29:45.174644 - Ticket updated: T0001
+2026-04-23 12:01:33.445678 - Backup CSV created
+2026-04-23 12:01:33.446677 - Ticket created: T0001
+2026-04-23 12:02:02.128114 - Backup CSV created
+2026-04-23 12:02:02.130629 - Ticket updated: T0001
+2026-04-23 12:03:32.835480 - Backup CSV created
+2026-04-23 12:03:32.836950 - Ticket updated: T0001
+2026-04-23 12:42:43.761312 - Backup CSV created
+2026-04-23 12:42:43.765312 - Ticket created: T0001
+2026-04-23 12:43:21.275206 - Backup CSV created
+2026-04-23 12:43:21.276213 - Ticket updated: T0001
+2026-04-23 12:43:41.286194 - Backup CSV created
+2026-04-23 12:43:41.287202 - Ticket updated: T0001
+2026-04-23 12:45:28.798360 - Backup CSV created
+2026-04-23 12:45:28.800372 - Ticket created: T0001
+2026-04-23 12:45:57.908968 - Backup CSV created
+2026-04-23 12:45:57.909974 - Ticket updated: T0001
+2026-04-24 10:01:51.066327 - Backup CSV created
+2026-04-24 10:01:51.068349 - Ticket created: T0001
+2026-04-24 10:02:21.075111 - Backup CSV created
+2026-04-24 10:02:21.106816 - Ticket updated: T0001
+2026-04-24 10:02:51.767379 - Backup CSV created
+2026-04-24 10:02:51.769391 - Ticket updated: T0001
+2026-04-24 10:07:53.797571 - Backup CSV created
+2026-04-24 10:07:53.799709 - Ticket created: T0002
+2026-04-24 10:08:23.290050 - Backup CSV created
+2026-04-24 10:08:23.292515 - Ticket updated: T0002
+2026-04-24 10:10:01.349608 - Backup CSV created
+2026-04-24 10:10:01.350619 - Ticket updated: T0002
+2026-04-24 10:10:45.841592 - Backup CSV created
+2026-04-24 10:10:45.843842 - Ticket created: T0001
+2026-04-24 10:11:10.202887 - Backup CSV created
+2026-04-24 10:11:10.204887 - Ticket updated: T0001
+2026-04-24 10:17:31.952005 - Backup CSV created
+2026-04-24 10:17:31.954000 - Ticket created: T0002
+2026-04-24 10:19:27.132573 - Backup CSV created
+2026-04-24 10:19:27.137152 - Ticket updated: T0002
+2026-04-24 10:19:53.297770 - Backup CSV created
+2026-04-24 10:19:53.301287 - Ticket updated: T0002
+2026-04-24 10:21:08.299083 - Backup CSV created
+2026-04-24 10:21:08.302077 - Ticket created: T0001
+2026-04-24 10:22:49.800101 - SLA breached: T0001
+2026-04-24 10:23:19.407945 - Backup CSV created
+2026-04-24 10:23:19.420403 - Ticket updated: T0001
+2026-04-24 10:23:53.525190 - Backup CSV created
+2026-04-24 10:23:53.528561 - Ticket updated: T0001
+2026-04-28 10:37:38.248671 - Backup CSV created
+2026-04-28 10:37:38.254671 - Ticket created: T0002
+2026-04-28 10:38:16.293197 - Backup CSV created
+2026-04-28 10:38:16.294710 - Ticket updated: T0002
+2026-04-28 11:05:23.507205 - Backup CSV created
+2026-04-28 11:05:23.509697 - Ticket created: T0003
+[2026-04-28 11:05:24] CRITICAL: Auto Ticket Created - T002 (Low Disk Space)
+2026-04-28 12:23:04.569151 - Backup CSV created
+2026-04-28 12:23:04.574540 - Ticket created: T0003
+2026-04-28 12:23:08.271928 - SLA breached: T0002
+2026-04-28 12:23:08.274928 - SLA breached: T0003
+2026-04-28 12:23:08.280371 - SLA breached: T002
+2026-04-28 12:38:01.789437 - Backup CSV created
+2026-04-28 12:38:01.791450 - Ticket created: T0004
+2026-04-28 12:38:05.072727 - Backup CSV created
+2026-04-28 12:38:05.073736 - PROBLEM RECORD CREATED: T0005 - server down
+2026-04-28 13:36:41.739086 [CRITICAL] Auto Ticket Created - T007 (High CPU Usage)
+2026-04-28 15:01:29.881663 [INFO] Running function: create_ticket
+2026-04-28 15:02:43.823092 [CRITICAL] type object 'Ticket' has no attribute 'validate_category'
+2026-04-28 15:06:32.293580 [INFO] Running function: create_ticket
+2026-04-28 15:06:46.006487 [INFO] Backup CSV created
+2026-04-28 15:06:46.009505 [CRITICAL] 'Ticket' object has no attribute 'ticket_id'
+2026-04-28 15:17:43.200525 [INFO] Running function: create_ticket
+2026-04-28 15:17:58.510917 [INFO] Backup CSV created
+2026-04-28 15:17:58.513225 [CRITICAL] 'Ticket' object has no attribute 'ticket_id'
+2026-04-28 15:21:07.724752 [INFO] Running function: create_ticket
+2026-04-28 15:21:18.688894 [WARNING] Duplicate ticket prevented
+2026-04-28 15:22:20.106212 [INFO] Running function: create_ticket
+2026-04-28 15:22:32.538739 [INFO] Backup CSV created
+2026-04-28 15:22:32.541418 [INFO] Ticket created: T0001
+2026-04-28 15:23:37.642829 [INFO] Running function: create_ticket
+2026-04-28 15:24:02.880418 [INFO] Backup CSV created
+2026-04-28 15:24:02.881426 [INFO] Ticket created: T0002
+2026-04-28 15:25:55.563426 [INFO] Backup CSV created
+2026-04-28 15:25:55.565756 [INFO] Ticket updated: T0001
+2026-04-28 15:26:43.734067 [CRITICAL] Auto Ticket Created - T0003 (Low Disk Space)
+2026-04-28 15:26:43.737568 [CRITICAL] Auto Ticket Created - T0004 (High Network Usage)
+2026-04-28 15:26:43.739654 [INFO] SLA check completed: no breaches
+2026-04-28 15:29:04.234352 [INFO] Change request saved
+2026-04-28 15:29:04.236864 [INFO] Change request created: C1777370344
+2026-04-28 15:29:56.972982 [INFO] Running function: create_ticket
+2026-04-28 15:30:12.740787 [WARNING] Duplicate ticket prevented
+2026-04-28 17:27:04.895609 [INFO] Running function: create_ticket
+2026-04-28 17:40:19.949494 [INFO] Running function: create_ticket
+2026-04-28 17:40:33.701526 [INFO] Backup CSV created
+2026-04-28 17:40:33.704653 [INFO] Ticket created: T0001
+2026-04-28 18:00:02.950822 [INFO] Ticket closed: T0001
+2026-04-28 18:00:02.967782 [INFO] Backup CSV created
+2026-04-28 18:00:02.969291 [INFO] Ticket updated: T0001
+2026-04-28 18:05:32.273577 [INFO] Running function: create_ticket
+2026-04-28 18:06:19.639382 [INFO] Backup CSV created
+2026-04-28 18:06:19.641893 [INFO] Ticket created: T0002
+2026-04-28 18:15:49.726972 [INFO] Running function: create_ticket
+2026-04-28 18:16:02.968917 [INFO] Backup CSV created
+2026-04-28 18:16:02.972748 [INFO] Ticket created: T0001
+2026-04-28 18:28:20.509383 [INFO] Backup CSV created
+2026-04-28 18:28:20.517556 [INFO] Ticket updated: T0001
+2026-04-28 19:01:10.491845 [INFO] Running function: create_ticket
+2026-04-28 19:01:49.325200 [INFO] Backup CSV created
+2026-04-28 19:01:49.326320 [INFO] Ticket created: T0002
+2026-04-28 19:04:12.623537 [INFO] Running function: create_ticket
+2026-04-28 19:04:45.692971 [INFO] Backup CSV created
+2026-04-28 19:04:45.705035 [INFO] Ticket created: T0003
+2026-04-28 19:05:51.817668 [INFO] Ticket closed: T0002
+2026-04-28 19:05:51.834838 [INFO] Backup CSV created
+2026-04-28 19:05:51.838672 [INFO] Ticket updated: T0002
+2026-04-28 19:13:33.058845 [CRITICAL] Auto Ticket Created - T0004 (Low Disk Space)
+2026-04-28 19:13:33.067866 [CRITICAL] Auto Ticket Created - T0005 (High Network Usage)
+2026-04-28 19:13:33.072296 [INFO] SLA check completed: no breaches
+2026-04-28 19:13:33.074234 [WARNING] Escalation alert: T0001
+2026-04-28 19:19:45.161894 [INFO] Change request saved
+2026-04-28 19:19:45.165141 [INFO] Change request created: C1777384185
+2026-04-28 19:53:30.727224 [INFO] Running function: create_ticket
+2026-04-28 19:53:44.020290 [WARNING] Duplicate ticket allowed for problem tracking
+2026-04-28 19:53:44.026247 [INFO] Backup CSV created
+2026-04-28 19:53:44.026247 [INFO] Ticket created: T0001
+2026-04-28 19:55:25.179540 [INFO] Running function: create_ticket
+2026-04-28 19:55:39.966037 [WARNING] Duplicate ticket allowed for problem tracking
+2026-04-28 19:55:39.966037 [INFO] Backup CSV created
+2026-04-28 19:55:39.966037 [INFO] Ticket created: T0002
+2026-04-28 19:55:43.662593 [INFO] Running function: create_ticket
+2026-04-28 19:55:55.383793 [WARNING] Duplicate ticket allowed for problem tracking
+2026-04-28 19:55:55.387442 [INFO] Backup CSV created
+2026-04-28 19:55:55.387442 [INFO] Ticket created: T0003
+2026-04-28 19:55:58.825083 [INFO] Running function: create_ticket
+2026-04-28 19:56:09.600114 [WARNING] Duplicate ticket allowed for problem tracking
+2026-04-28 19:56:09.602265 [INFO] Backup CSV created
+2026-04-28 19:56:09.602265 [INFO] Ticket created: T0004
+2026-04-28 19:56:13.282674 [INFO] Running function: create_ticket
+2026-04-28 19:56:25.361754 [WARNING] Duplicate ticket allowed for problem tracking
+2026-04-28 19:56:25.361754 [INFO] Backup CSV created
+2026-04-28 19:56:25.361754 [INFO] Ticket created: T0005
+2026-04-28 19:56:33.770046 [WARNING] SLA breached: T0001
+2026-04-28 19:56:33.789454 [WARNING] Escalation alert: T0004
+2026-04-28 19:56:33.791469 [WARNING] Escalation alert: T0005
+2026-04-28 19:56:33.800949 [INFO] Backup CSV created
+2026-04-28 19:56:33.805363 [INFO] Problem record saved
+2026-04-28 19:56:33.806634 [CRITICAL] Problem record created: T0006
+2026-04-28 20:51:04.653329 [INFO] Running function: create_ticket
+2026-04-28 20:51:16.755451 [INFO] Backup CSV created
+2026-04-28 20:51:16.755451 [INFO] Ticket created: T0001
+2026-04-28 20:51:21.210171 [INFO] Running function: create_ticket
+2026-04-28 20:51:33.339366 [WARNING] Duplicate ticket allowed for problem tracking
+2026-04-28 20:51:33.347389 [INFO] Backup CSV created
+2026-04-28 20:51:33.347949 [INFO] Ticket created: T0002
+2026-04-28 20:51:53.256516 [CRITICAL] Auto Ticket Created - T0003 (High CPU Usage)
+2026-04-28 20:51:53.282375 [CRITICAL] Auto Ticket Created - T0004 (Low Disk Space)
+2026-04-28 20:51:53.304989 [CRITICAL] Auto Ticket Created - T0005 (High Network Usage)
+2026-04-28 20:51:53.333065 [INFO] SLA check completed: no breaches
+2026-04-28 21:25:56.738991 [INFO] Ticket Created - T0001
+2026-04-28 21:26:23.976912 [INFO] Ticket updated: T0001
+2026-04-28 21:26:38.767760 [INFO] Ticket Created - T0002
+2026-04-28 21:26:52.163769 [INFO] Ticket closed: T0001
+2026-04-28 21:26:52.172378 [INFO] Ticket updated: T0001
+2026-04-28 21:27:22.047152 [CRITICAL] Auto Ticket Created - T0004 (Low Disk Space)
+2026-04-28 21:27:22.051139 [CRITICAL] Auto Ticket Created - T0005 (High Network Usage)
+2026-04-28 21:27:22.054601 [INFO] SLA check completed: no breaches
+2026-04-28 21:29:47.478431 [WARNING] Duplicate issue detected
+2026-04-28 21:29:47.483788 [INFO] Ticket Created - T0006
+2026-04-28 21:30:15.252475 [WARNING] Duplicate issue detected
+2026-04-28 21:30:15.257211 [INFO] Ticket Created - T0007
+2026-04-28 21:30:36.034639 [WARNING] Duplicate issue detected
+2026-04-28 21:30:36.045707 [INFO] Ticket Created - T0008
+2026-04-28 21:30:39.940515 [INFO] SLA check completed: no breaches
+2026-04-28 21:33:28.598184 [INFO] Ticket Created - T0001
+2026-04-28 21:33:51.306844 [WARNING] Duplicate issue detected
+2026-04-28 21:33:51.312596 [INFO] Ticket Created - T0002
+2026-04-28 21:34:05.078005 [WARNING] Duplicate issue detected
+2026-04-28 21:34:05.096686 [INFO] Ticket Created - T0003
+2026-04-28 21:34:25.997151 [WARNING] Duplicate issue detected
+2026-04-28 21:34:26.006643 [INFO] Ticket Created - T0004
+2026-04-28 21:34:46.291889 [WARNING] Duplicate issue detected
+2026-04-28 21:34:46.331472 [INFO] Backup CSV created
+2026-04-28 21:34:46.334480 [INFO] Problem record saved
+2026-04-28 21:34:46.339710 [CRITICAL] Problem record created: T0006
+2026-04-28 21:34:46.339710 [INFO] Ticket Created - T0005
+2026-04-28 21:40:41.572189 [INFO] Ticket Created - T0001
+2026-04-28 21:41:07.623447 [INFO] Ticket updated: T0001
+2026-04-28 21:41:30.414133 [INFO] Ticket Created - T0002
+2026-04-28 21:41:49.658664 [INFO] Ticket closed: T0002
+2026-04-28 21:41:49.667995 [INFO] Ticket updated: T0002
+2026-04-28 21:42:09.771267 [CRITICAL] Auto Ticket Created - T0006 (Low Disk Space)
+2026-04-28 21:42:09.774487 [CRITICAL] Auto Ticket Created - T0007 (High Network Usage)
+2026-04-28 21:42:09.776496 [INFO] SLA check completed: no breaches
+2026-04-28 22:18:00.441264 [INFO] Ticket Created - T0001
+2026-04-28 22:18:28.150870 [INFO] Ticket updated: T0001
+2026-04-28 22:18:41.512599 [CRITICAL] Auto Ticket Created - T0003 (Low Disk Space)
+2026-04-28 22:18:41.521912 [CRITICAL] Auto Ticket Created - T0004 (High Network Usage)
+2026-04-28 22:18:41.530102 [INFO] SLA check completed: no breaches
+2026-04-28 22:32:15.677745 [WARNING] Duplicate issue detected
+2026-04-28 22:32:15.686125 [INFO] Ticket Created - T0005
+2026-04-28 22:32:36.620283 [WARNING] Duplicate issue detected
+2026-04-28 22:32:36.623278 [INFO] Ticket Created - T0006
+2026-04-28 22:32:56.720138 [WARNING] Duplicate issue detected
+2026-04-28 22:32:56.726190 [INFO] Ticket Created - T0007
+2026-04-28 22:33:11.187474 [WARNING] Duplicate issue detected
+2026-04-28 22:33:11.199373 [INFO] Backup CSV created
+2026-04-28 22:33:11.204519 [INFO] Problem record saved
+2026-04-28 22:33:11.205520 [CRITICAL] Problem record created: T0009
+2026-04-28 22:33:11.206520 [INFO] Ticket Created - T0008
+2026-04-28 22:33:26.846556 [INFO] SLA check completed: no breaches
+2026-04-28 22:38:17.125865 [INFO] SLA check completed: no breaches
+2026-04-28 22:43:54.582271 [INFO] Ticket Created - T0001
+2026-04-28 22:44:14.909565 [INFO] Ticket updated: T0001
+2026-04-28 22:44:26.260968 [CRITICAL] Auto Ticket Created - T0011 (Low Disk Space)
+2026-04-28 22:44:26.268965 [CRITICAL] Auto Ticket Created - T0012 (High Network Usage)
+2026-04-28 22:44:26.271525 [INFO] SLA check completed: no breaches
+2026-04-28 22:46:48.040170 [INFO] SLA check completed: no breaches
+2026-04-28 22:50:26.563092 [WARNING] Duplicate issue detected
+2026-04-28 22:50:26.568246 [INFO] Ticket Created - T0013
+2026-04-28 22:53:44.825299 [WARNING] Duplicate issue detected
+2026-04-28 22:53:44.830933 [INFO] Ticket Created - T0014
+2026-04-28 22:58:59.492712 [WARNING] Duplicate issue detected
+2026-04-28 22:58:59.499359 [INFO] Ticket Created - T0015
+2026-04-28 23:14:48.342263 [WARNING] Duplicate issue detected
+2026-04-28 23:14:48.357997 [INFO] Backup CSV created
+2026-04-28 23:14:48.357997 [INFO] Problem record saved
+2026-04-28 23:14:48.357997 [CRITICAL] Problem record created: T0017
+2026-04-28 23:14:48.367561 [INFO] Ticket Created - T0016
+2026-04-28 23:24:40.378834 [WARNING] Duplicate issue detected
+2026-04-28 23:24:40.397554 [INFO] Ticket Created - T0018
+2026-04-28 23:29:48.003299 [WARNING] Duplicate issue detected
+2026-04-28 23:29:48.014907 [INFO] Ticket Created - T0019
+2026-04-28 23:55:57.337404 [INFO] Ticket Created - T0001
+2026-04-28 23:58:35.482606 [INFO] Ticket updated: T0001
+2026-04-28 23:59:10.734832 [CRITICAL] Auto Ticket Created - T0003 (Low Disk Space)
+2026-04-28 23:59:10.738079 [CRITICAL] Auto Ticket Created - T0004 (High Network Usage)
+2026-04-28 23:59:10.740528 [INFO] SLA check completed: no breaches
+2026-04-29 00:04:03.071349 [INFO] Ticket Created - T0001
+2026-04-29 00:04:24.095322 [INFO] Ticket updated: T0001
+2026-04-29 00:04:36.619070 [CRITICAL] Auto Ticket Created - T0003 (Low Disk Space)
+2026-04-29 00:04:36.623519 [CRITICAL] Auto Ticket Created - T0004 (High Network Usage)
+2026-04-29 00:04:36.628041 [INFO] SLA check completed: no breaches
+2026-04-29 00:06:45.084239 [INFO] Change request saved
+2026-04-29 00:06:45.085711 [INFO] Change request created: C1777401405
+2026-04-29 00:23:15.505222 [WARNING] Duplicate issue detected
+2026-04-29 00:23:15.532772 [INFO] Ticket Created - T0005
+2026-04-29 00:23:35.439417 [WARNING] Duplicate issue detected
+2026-04-29 00:23:35.446044 [INFO] Ticket Created - T0006
+2026-04-29 00:23:48.550971 [WARNING] Duplicate issue detected
+2026-04-29 00:23:48.558737 [INFO] Ticket Created - T0007
+2026-04-29 00:24:02.549612 [WARNING] Duplicate issue detected
+2026-04-29 00:24:02.569881 [INFO] Backup CSV created
+2026-04-29 00:24:02.572994 [INFO] Problem record saved
+2026-04-29 00:24:02.576001 [CRITICAL] Problem record created: T0009
+2026-04-29 00:24:02.577008 [INFO] Ticket Created - T0008
+2026-04-29 00:24:14.739667 [WARNING] Duplicate auto ticket prevented: Low Disk Space
+2026-04-29 00:24:14.740664 [WARNING] Duplicate auto ticket prevented: High Network Usage
+2026-04-29 00:24:14.743962 [INFO] SLA check completed: no breaches
